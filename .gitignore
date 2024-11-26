@@ -1,0 +1,6 @@
+.env
+tpu_key.pub
+tpu_key
+database.json
+uv.lock
+.venv
