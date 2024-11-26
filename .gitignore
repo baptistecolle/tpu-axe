@@ -4,3 +4,4 @@ tpu_key
 database.json
 uv.lock
 .venv
+backup
